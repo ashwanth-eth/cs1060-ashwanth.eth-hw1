@@ -1,4 +1,11 @@
 # Flappy Bird Clone
+- Ashwanth Samuel (MBA 2026; asamuel@mba2026.hbs.edu)
+- Bolt URL: https://polished-flappy-bird-6evb.bolt.host
+- GitHub Repo URL: https://github.com/ashwanth-eth/cs1060-ashwanth.eth-hw1
+- Netlify Deployment URL: https://endearing-biscotti-a67fc7.netlify.app/
+- Project Background: I completed most of this task during the first session of COMPSCI 1060. The first prompt got me 80% of the way there and I added some refinements to adjust the settings of the game. I think vibe-coding a Flappy Bird type game was so easy for Bolt because it is a familiar game and many people have likely tried to build a similar game in the past. All-in-all, it probably took me ~30 minutes to complete this project from start to deployment. Netlify made it super easy to connect my GitHub repo and then deploy the code I had already written. I imagine this will not always be the case for more complex projects, but for this basic application it worked well. 
+
+
 
 A polished HTML5 Canvas implementation of Flappy Bird with modern web technologies.
 
